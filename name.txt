@@ -1,3 +1,9 @@
+1
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
+
+2
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
